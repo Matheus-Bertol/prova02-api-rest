@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "prova02-api-rest"
 version = "0.1.0"
-description = ""
-authors = ["Seu Nome <seuemail@email.com>"]
+description = "Prova de desenvolvimento de aplicações Web com o professor Cezar Augusto Mezzalira"
+authors = ["Matheus Augusto Bertol <matheusbertol76@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
